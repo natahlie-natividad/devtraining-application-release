@@ -24,13 +24,13 @@
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-22 15:24:00</sys_created_on>
-        <sys_id>fa005cabdb0618109a41ccd81396196b</sys_id>
+        <sys_id>3e259a1b2f022010fbe7de1a2799b6a3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Bssample Gen Sample Generic Table</sys_name>
         <sys_package display_value="Sample Repo" source="x_snc_bssample_gen">a2df88abdb0618109a41ccd813961951</sys_package>
         <sys_policy/>
         <sys_scope display_value="Sample Repo">a2df88abdb0618109a41ccd813961951</sys_scope>
-        <sys_update_name>sys_db_object_fa005cabdb0618109a41ccd81396196b</sys_update_name>
+        <sys_update_name>sys_db_object_3e259a1b2f022010fbe7de1a2799b6a3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-07-22 15:24:00</sys_updated_on>
         <update_access>true</update_access>
